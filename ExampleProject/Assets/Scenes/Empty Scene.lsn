@@ -179,41 +179,7 @@
     },
     "value48": 1,
     "value49": 1,
-    "value50": {
-        "PrimitiveType": 8,
-        "FilePath": "//Assets/Meshes/Fox.glb",
-        "Material": {
-            "ptr_wrapper": {
-                "valid": 1,
-                "data": {
-                    "Albedo": "",
-                    "Normal": "",
-                    "Metallic": "",
-                    "Roughness": "",
-                    "Ao": "",
-                    "Emissive": "",
-                    "albedoColour": {
-                        "value0": 1.0,
-                        "value1": 1.0,
-                        "value2": 1.0,
-                        "value3": 1.0
-                    },
-                    "roughnessValue": 0.5799999833106995,
-                    "metallicValue": 0.0,
-                    "emissiveValue": 0.0,
-                    "albedoMapFactor": 1.0,
-                    "metallicMapFactor": 0.0,
-                    "roughnessMapFactor": 0.0,
-                    "normalMapFactor": 0.0,
-                    "aoMapFactor": 0.0,
-                    "emissiveMapFactor": 0.0,
-                    "alphaCutOff": 0.4000000059604645,
-                    "workflow": 0.0,
-                    "shader": "/Users/jmorton/Dev/Lumos/bin/Debug-macosx-x86_64/LumosEditor.app/Contents/MacOS/../../../../../Lumos/Assets/Shaders/ForwardPBRAnim.shader",
-                    "Reflectance": 0.30000001192092898
-                }
-            }
-        }
+    
     },
     "value51": 0,
     "value52": 0,
